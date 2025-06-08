@@ -17,4 +17,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dude759&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dude759&layout=compact&theme=dark)  
 
-🔹 *"Код → Кофе → Повторить"*  
+⏰ Мое время: ![UTC+3](https://img.shields.io/badge/UTC%2B3-Moscow-blue) 
