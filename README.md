@@ -7,7 +7,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
 
-🚀 **Мои будущие проекты**:  
+🚀 **Мои проекты**:  
 - Скоро здесь появятся крутые работы! 🔥  
 
 📫 **Свяжитесь со мной**:  
