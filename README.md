@@ -13,8 +13,7 @@
 📫 **Свяжитесь со мной**:  
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white)](https://t.me/Vanechka_kek)  
 
-📊 **Моя активность**:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dude759&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dude759&layout=compact&theme=dark)  
+📊 **Мои последние посты**:  
+!  
 
 ⏰ Мое время: ![UTC+3](https://img.shields.io/badge/UTC%2B3-Moscow-blue) 
