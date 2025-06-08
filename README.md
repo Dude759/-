@@ -14,6 +14,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white)](https://t.me/Vanechka_kek)  
 
 📊 **Мои последние посты**:  
-![Banner]([giphy.gif])  
+- Пупупу
 
 ⏰ Мое время: ![UTC+3](https://img.shields.io/badge/UTC%2B3-Moscow-blue) 
