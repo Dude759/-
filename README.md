@@ -1,5 +1,5 @@
 # Привет, я Иван (Dude759) 👋  
-### Fullstack-разработчик  
+### Начинающий веб-разработчик  
 
 💻 **Мой стек**:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
