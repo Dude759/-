@@ -8,12 +8,12 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
 
 🚀 **Мои проекты**:  
-- Скоро здесь появятся крутые работы! 🔥  
+- [HR Quest Portfolio](https://github.com/Dude759/hr-quest-portfolio?tab=readme-ov-file) - это интерактивное сайт-портфолио в формате головоломки для рекрутеров и заказчиков.  
 
 📫 **Свяжитесь со мной**:  
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white)](https://t.me/Vanechka_kek)  
 
 📊 **Мои последние посты**:  
-- [HR Quest Portfolio](hrquestportfolio.netlify.app) - это интерактивное сайт-портфолио в формате головоломки для рекрутеров и заказчиков.
+- Пупупу
 
 ⏰ Мое время: ![UTC+3](https://img.shields.io/badge/UTC%2B3-Moscow-blue) 
