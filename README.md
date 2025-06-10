@@ -13,6 +13,7 @@
 
 ## UI/UX дизайн
 - [Ремонт компьютеров](https://www.figma.com/proto/uHDZH1J3Q9W83JK16hDIUo/Untitled?node-id=1-2&t=RHY4lebOMfJQnLul-1) - одностраничный лендинг на тематику ремонта компьютеров
+
 📫 **Свяжитесь со мной**:  
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white)](https://t.me/Vanechka_kek)  
 
